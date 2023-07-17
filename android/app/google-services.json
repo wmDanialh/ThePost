@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "186790475555",
+    "project_id": "walltutorial-35ac4",
+    "storage_bucket": "walltutorial-35ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186790475555:android:fe869b82de6c029d17be96",
+        "android_client_info": {
+          "package_name": "com.example.thewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186790475555-p543mhlvltd74fpjjju8bqdbb37r84p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavhcIGAuoUV_FJiGjSRb6xBOEz7i00FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186790475555-p543mhlvltd74fpjjju8bqdbb37r84p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186790475555-j65dm2oj3gmd0sskeapul0rd9rbe1ce6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thewall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
